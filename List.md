@@ -8,6 +8,6 @@ Our goal is to develop novel algorithms that apply methods from Natural Language
 context of genomic mutations to distinguish between driver and passengers.  
 
 **Supervisors**: [Dr Karthik Raman](https://home.iitm.ac.in/kraman/lab/karthik/) and [Dr Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/)  
-**Category:** Masters project
+**Category:** Masters project  
 **Report:** A [brief analysis](https://docs.google.com/document/d/13MOsX7WKgRlUIp4-PJP8s5HroQTX2DOOf2WrI2T--vY/edit?usp=sharing) of the results obtained so far.
 
