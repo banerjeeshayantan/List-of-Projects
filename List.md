@@ -38,6 +38,12 @@ DNA microarray technology is used to measure the expression levels of genes unde
 
 ## Electronic health records and machine learning
 ### 1. Prediction of in-hospital mortality for patients suffering from coronary atherosclerosis using electronic health records
-Electronic health records are digitized real-time version of patient records that can be used to study the burden of various diseases using advanced machine learning techniques. Using Siupport Vector machines, we found out a way t 
+Electronic health records are digitized real-time version of patient records that makes patient information available instantly and securely to authorized users. Coronary artery disease (CAD) often leads to myocardial infraction, which may be fatal. The risk factors associated with this disease are embedded in electronic health records and features can be extracted to build predictive models. After a patient is admitted and the blood tests and clinical data (like Insurance, Admission type and Gender) are collected, predictive models can be built to classify survivability of patients within 30 days of admission. This is the most critical period for surviving coronary atherosclerosis. The main objective of this study was to build five different predictive models using demographic data, treatment data, lab measurements reported within 24 hours of admission, a combined model using all of the above and free text clinical notes. A comparative analysis of the results would then elucidate the best set of features that gives the most predictive power.  
+**Category:** Independent research project  
+**Github repository:** [Link] (https://github.com/banerjeeshayantan/CVD_mortality)  
+**Detailed write-up:** [Link] (https://docs.google.com/document/d/151V6yXZmZnko_lbJX1C0F7RNP7XHd25isx8R8zbZLIE/edit?usp=sharing)  
+
+
+
 
 
