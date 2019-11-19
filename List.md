@@ -59,5 +59,13 @@ A hospital readmission is an episode when a patient who had been discharged from
 **Repository:** [Link](https://github.com/banerjeeshayantan/SmartEHR)  
 **Demo:** [Link](https://rbc-dsai.iitm.ac.in/news/2019/01/11/Shaastra-AI-Challenge.html)  
 
+## Machine learning projects 
+### Predicting photometric redshifts using machine learning methods
+A photometric redshift is an estimate for the recession velocity of a galaxy without measuring its spectrum. This project was done at [NCRA](ncra.tifr.res.in) under the guidance of [Dr Yogesh Wadadekar](http://www.ncra.tifr.res.in:8081/~yogesh/). The main objective was to accurately predict photometric redshifts and comapre them with methods built on spectroscopic data. A more datailed work on the topic was done by Dr Wadadekar and can be found [here](adsabs.harvard.edu/abs/2005PASP..117...79W). The photometric data from SDSS DR 8-10 was collecetd and popular machine learning methods such as linear regression, support vector regression, artificial neural networks and tree based methods. The rms error in redshift estimation is reported and compared with other existing studies.  
+**Category:** Winter internship project  
+**Repository:** [Link](https://github.com/banerjeeshayantan/NCRA)  
+
+### Classification between two types of particles generated in high energy collider experiments  
+
 
 
