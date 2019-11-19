@@ -36,7 +36,7 @@ DNA microarray technology is used to measure the expression levels of genes unde
 **Supervisors:** [Dr Subhra Shankar Ray](https://www.isical.ac.in/~shubhra/)  
 **Repository:** [Link](https://github.com/banerjeeshayantan/NNMCB-project)  
 
-### Electronic health records and machine learning
+## Electronic health records and machine learning
 
 
 
