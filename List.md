@@ -29,5 +29,7 @@ Driver mutations are somatic mutations that help in cancer progression while pas
 **Repository:** [Link](https://github.com/banerjeeshayantan/Driver_gene_identificantion)  
 **Detailed write-up:** [Link](https://docs.google.com/document/d/1VCLoe-IbIr_CIarEAcDNW3Z9O31Z1KcpNVPpA1Be8_w/edit?usp=sharing)  
  
+ ### 4. Classifying cancerous tissue using gene expression data
+DNA microarray technology is used to measure the expression levels of genes under various conditions. Differential expression of these genes can elucidate newer insights into the functioning of various diseases. Usually, microarray experiments suffer from the problem of high-dimensionality. There are a lot more genes than samples available for analysis. So, in this project we decided to identify several microarray datasets that suffer from the curse of dimensionality and apply various feature engineering techniques to reduce the number of genes in each case. Finally, we built classifiers using each of these feature-reduced datasets and compare their accuracies.
 
 
