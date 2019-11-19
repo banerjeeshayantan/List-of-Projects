@@ -54,10 +54,10 @@ Sepsis is a life threatening condition that occurs as a result of the body’s r
 
 ### 3. SmartEHR: A web-based tool to analyze free text clinical notes using Natural language processing and Machine learning techniques
 A hospital readmission is an episode when a patient who had been discharged from a hospital is admitted again within a specified time interval. Readmission rates have increasingly been used as an outcome measure in health services research and as a quality benchmark for health systems. Hospitals have to face penalities if their readmission rates are high. So, predicting the chances of readmission using the EHR data of patients (like discharge notes) will be of utmost importance. In this project, I used publicly available EHR data to extract free text clinical notes from EHR records and build a web-based interface to predict the 30 day readmission chances, top 5 most probable diagnoses and the top 20 keywords specific to the input document. This tool used popular Natural Language processing and machine learning techniques to preprocess, engineer features and build predcitive models. The web tool was built using the Python Flask framework. This tool was awarded the [first prize](https://rbc-dsai.iitm.ac.in/news/2019/01/11/Shaastra-AI-Challenge.html) in the HSBC AI challenge at Shaastra 2019.  
-**Category:** [Hackathon project](https://www.techgig.com/hackathon/SAIC)  
-**Slides:** [Link](https://drive.google.com/file/d/1LtLzcDaMawhxbm6NuFGjvZo7U6u45EMM/view?usp=sharing)
+**Category:** [Hackathon project](https://www.techgig.com/hackathon/SAIC)    
+**Slides:** [Link](https://drive.google.com/file/d/1LtLzcDaMawhxbm6NuFGjvZo7U6u45EMM/view?usp=sharing)  
 **Repository:** [Link](https://github.com/banerjeeshayantan/SmartEHR)  
-**Demo:**[Link](https://rbc-dsai.iitm.ac.in/news/2019/01/11/Shaastra-AI-Challenge.html)
+**Demo:**[Link](https://rbc-dsai.iitm.ac.in/news/2019/01/11/Shaastra-AI-Challenge.html)  
 
 
 
