@@ -84,4 +84,10 @@ The goal for this project was to predict which proteins were homologous to a nat
 **Category:** Assignment for the course "Introduction to Machine learning"  
 **Repository:** [Link](https://github.com/banerjeeshayantan/KDD2004)  
 
+## Others
+### Understanding Information Privacy Assimilation in IT Organizations using Multi-site Case Studies
+This article was written for Immerse. Immerse, the institute research magazine, is the annual science publication of The Fifth Estate. It stands for IIT Madras Magazine on Research in Science and Engineering, where the endeavour is not only to showcase some of the recent developments in research and innovation at IIT Madras, but also to communicate the science behind them in the simplest way possible for better understanding and appreciation. The student writers are usually encouraged to choose their favourite research lab within the institute (preferably outside their own department or area of expertise). Then after multiple interviews with the PI and the researchers of that lab along with multiple rounds of editing, the final article is produced. Last year, I was very fortunate to interview [Dr Saji Mathew](https://doms.iitm.ac.in/index.php/skm) from the Department of Management Studies in IIT Madras. His area of interest revolves around Web personalization and Information privacy.   
+**Category:** Magazine article  
+**Link to article:** [Link](https://drive.google.com/file/d/12PLOmF0nrPvLqCB8uLicvWRL0ieEMLnk/view?usp=sharing)  
+
 
