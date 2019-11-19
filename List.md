@@ -65,7 +65,16 @@ A photometric redshift is an estimate for the recession velocity of a galaxy wit
 **Category:** Winter internship project  
 **Repository:** [Link](https://github.com/banerjeeshayantan/NCRA)  
 
-### Classification between two types of particles generated in high energy collider experiments  
+### Classifying types of particles generated in high energy collider experiments
+This project was one of the tasks for the KDD Cup 2004. The goal in this task was to learn a classification rule that differentiates between two types of particles generated in high energy collider experiments. It was a binary classification problem with 78 attributes. The leaderboard ranking was based on four different classification metrics. The [final leaderboard](http://osmot.cs.cornell.edu/cgi-bin/kddcup/newtable.pl?prob=phy) ranking for this task was 87.750.  
+**Category:** Assignment for the course "Introduction to Machine learning"  
+**Repository:** [Link](https://github.com/banerjeeshayantan/KDD2004)  
+
+### Protein homology prediction task  
+The goal for this project was to predict which proteins were homologous to a native sequence. The data was grouped into blocks around each native sequence. 153 native sequences and 150 native sequences were supplied as the training set and the test set respectively. ***The final model gave the best results overall with a second best RMSE of 0.03476 that is within 1% of the RMSE of the winning team.*** The average [leaderboard ranking](http://osmot.cs.cornell.edu/cgi-bin/kddcup/newtable.pl?col=5&order=1&prob=bio)(username: shayantan) across all metrics for this task was 85.5 and for RMSE was 2.   
+**Category:** Assignment for the course "Introduction to Machine learning"  
+**Repository:** [Link](https://github.com/banerjeeshayantan/KDD2004)  
+
 
 
 
