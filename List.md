@@ -57,7 +57,7 @@ A hospital readmission is an episode when a patient who had been discharged from
 **Category:** [Hackathon project](https://www.techgig.com/hackathon/SAIC)    
 **Slides:** [Link](https://drive.google.com/file/d/1LtLzcDaMawhxbm6NuFGjvZo7U6u45EMM/view?usp=sharing)  
 **Repository:** [Link](https://github.com/banerjeeshayantan/SmartEHR)  
-**Demo:**[Link](https://rbc-dsai.iitm.ac.in/news/2019/01/11/Shaastra-AI-Challenge.html)  
+**Demo:** [Link](https://rbc-dsai.iitm.ac.in/news/2019/01/11/Shaastra-AI-Challenge.html)  
 
 
 
