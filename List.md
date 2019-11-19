@@ -71,7 +71,7 @@ This project was one of the tasks for the KDD Cup 2004. The goal in this task wa
 **Repository:** [Link](https://github.com/banerjeeshayantan/KDD2004)  
 
 ### Protein homology prediction task  
-The goal for this project was to predict which proteins were homologous to a native sequence. The data was grouped into blocks around each native sequence. 153 native sequences and 150 native sequences were supplied as the training set and the test set respectively. ***The final model gave the best results overall with a second best RMSE of 0.03476 that is within 1% of the RMSE of the winning team.*** The average [leaderboard ranking](http://osmot.cs.cornell.edu/cgi-bin/kddcup/newtable.pl?col=5&order=1&prob=bio)(username: shayantan) across all metrics for this task was 85.5 and for RMSE was 2.   
+The goal for this project was to predict which proteins were homologous to a native sequence. The data was grouped into blocks around each native sequence. 153 native sequences and 150 native sequences were supplied as the training set and the test set respectively. ***The final model gave the best results overall with a second best RMSE of 0.03476 that is within 1% of the RMSE of the winning team.*** The average [leaderboard ranking](http://osmot.cs.cornell.edu/cgi-bin/kddcup/newtable.pl?col=5&order=1&prob=bio) (username: shayantan) across all metrics for this task was 85.5 and for RMSE was 2.   
 **Category:** Assignment for the course "Introduction to Machine learning"  
 **Repository:** [Link](https://github.com/banerjeeshayantan/KDD2004)  
 
