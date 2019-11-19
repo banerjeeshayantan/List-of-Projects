@@ -31,10 +31,10 @@ Driver mutations are somatic mutations that help in cancer progression while pas
  
  ### 4. Classifying cancerous tissue using gene expression data
 DNA microarray technology is used to measure the expression levels of genes under various conditions. Differential expression of these genes can elucidate newer insights into the functioning of various diseases. Usually, microarray experiments suffer from the problem of high-dimensionality. There are a lot more genes than samples available for analysis. So, in this project we decided to identify several microarray datasets that suffer from the curse of dimensionality and apply various feature engineering techniques to reduce the number of genes in each case. Finally, we built classifiers using each of these feature-reduced datasets and compare their accuracies.
-**Category:** Summer internship project at the [Indian Statistical Institute Kolkata](https://www.isical.ac.in/)
-**Funding agency:** [National Network for Mathematical and Computational Biology (NNMCB)](http://www.iiserpune.ac.in/~mbio/?q=nnmcb/internship)
-**Supervisors:** [Dr Subhra Shankar Ray](https://www.isical.ac.in/~shubhra/)
-**Repository:** [Link](https://github.com/banerjeeshayantan/NNMCB-project)
+**Category:** Summer internship project at the [Indian Statistical Institute Kolkata](https://www.isical.ac.in/)  
+**Funding agency:** [National Network for Mathematical and Computational Biology (NNMCB)](http://www.iiserpune.ac.in/~mbio/?q=nnmcb/internship)  
+**Supervisors:** [Dr Subhra Shankar Ray](https://www.isical.ac.in/~shubhra/)  
+**Repository:** [Link](https://github.com/banerjeeshayantan/NNMCB-project)  
 
 
 
