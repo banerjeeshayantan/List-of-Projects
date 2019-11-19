@@ -38,6 +38,15 @@ DNA microarray technology is used to measure the expression levels of genes unde
 **Supervisors:** [Dr Subhra Shankar Ray](https://www.isical.ac.in/~shubhra/)  
 **Repository:** [Link](https://github.com/banerjeeshayantan/NNMCB-project)  
 
+### 5. Predicting protein functions from interaction data using network features
+Predicting function of unknown proteins have been a long standing research problem to determine pathogenicity in target organisms. Computational prediction can be a fast and economical option to achieve that as compared to in-vitro studies. In this report, we try to predict functions of unknown proteins in Saccharomyces cerevisiae using machine learning algorithms and using network properties as features. We achieve reasonable accuracy using Random Forests and a particular type of SVM classifier.  
+**Category:** Course project for "Computational Systems Biology"  
+**Detailed write-up:** [Link](https://drive.google.com/file/d/1KveTAZzyXxXrK8pudYWT6hkUJR-aBC6I/view?usp=sharing)  
+
+
+
+
+
 ## Electronic health records and machine learning
 ### 1. Prediction of in-hospital mortality for patients suffering from coronary atherosclerosis using electronic health records
 Electronic health records are digitized real-time version of patient records that makes patient information available instantly and securely to authorized users. Coronary artery disease (CAD) often leads to myocardial infraction, which may be fatal. The risk factors associated with this disease are embedded in electronic health records and features can be extracted to build predictive models. After a patient is admitted and the blood tests and clinical data (like Insurance, Admission type and Gender) are collected, predictive models can be built to classify survivability of patients within 30 days of admission. This is the most critical period for surviving coronary atherosclerosis. The main objective of this study was to build five different predictive models using demographic data, treatment data, lab measurements reported within 24 hours of admission, a combined model using all of the above and free text clinical notes. A comparative analysis of the results would then elucidate the best set of features that gives the most predictive power.  
@@ -74,7 +83,5 @@ This project was one of the tasks for the KDD Cup 2004. The goal in this task wa
 The goal for this project was to predict which proteins were homologous to a native sequence. The data was grouped into blocks around each native sequence. 153 native sequences and 150 native sequences were supplied as the training set and the test set respectively. ***The final model gave the best results overall with a second best RMSE of 0.03476 that is within 1% of the RMSE of the winning team.*** The average [leaderboard ranking](http://osmot.cs.cornell.edu/cgi-bin/kddcup/newtable.pl?col=5&order=1&prob=bio) (username: shayantan) across all metrics for this task was 85.5 and for RMSE was 2.   
 **Category:** Assignment for the course "Introduction to Machine learning"  
 **Repository:** [Link](https://github.com/banerjeeshayantan/KDD2004)  
-
-
 
 
