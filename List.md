@@ -39,7 +39,7 @@ DNA microarray technology is used to measure the expression levels of genes unde
 **Repository:** [Link](https://github.com/banerjeeshayantan/NNMCB-project)  
 
 ### 5. Predicting protein functions from interaction data using network features
-Predicting function of unknown proteins have been a long standing research problem to determine pathogenicity in target organisms. Computational prediction can be a fast and economical option to achieve that as compared to in-vitro studies. In this report, we try to predict functions of unknown proteins in Saccharomyces cerevisiae using machine learning algorithms and using network properties as features. We achieve reasonable accuracy using Random Forests and a particular type of SVM classifier.  
+Predicting function of unknown proteins have been a long standing research problem to determine pathogenicity in target organisms. Computational prediction can be a fast and economical option to achieve that as compared to in-vitro studies. In this project, we try to predict functions of unknown proteins in Saccharomyces cerevisiae using machine learning algorithms using network properties as features. We achieve reasonable accuracy using Random Forests and a particular type of SVM classifier.  
 **Category:** Course project for "Computational Systems Biology"  
 **Detailed write-up:** [Link](https://drive.google.com/file/d/1KveTAZzyXxXrK8pudYWT6hkUJR-aBC6I/view?usp=sharing)  
 
