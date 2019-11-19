@@ -37,6 +37,7 @@ DNA microarray technology is used to measure the expression levels of genes unde
 **Repository:** [Link](https://github.com/banerjeeshayantan/NNMCB-project)  
 
 ## Electronic health records and machine learning
-
+### 1. Prediction of in-hospital mortality for patients suffering from coronary atherosclerosis using electronic health records
+Electronic health records are digitized real-time version of patient records that can be used to study the burden of various diseases using advanced machine learning techniques. Using Siupport Vector machines, we found out a way t 
 
 
