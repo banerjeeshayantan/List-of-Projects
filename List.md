@@ -10,6 +10,7 @@ context of genomic mutations to distinguish between driver and passengers.
 **Supervisors**: [Dr Karthik Raman](https://home.iitm.ac.in/kraman/lab/karthik/) and [Dr Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/)  
 **Category:** Masters project  
 **Report:** A [brief analysis](https://docs.google.com/document/d/13MOsX7WKgRlUIp4-PJP8s5HroQTX2DOOf2WrI2T--vY/edit?usp=sharing) of the results obtained so far.
+**Poster:** [Link](https://drive.google.com/file/d/1dQzLGUdUOzta6rBrqoZCl7wE5Wlj2Qi2/view?usp=sharing)
   
   
 
@@ -18,9 +19,10 @@ Sepsis is a life threatning condition and an estimated 4.2 million newborns and 
 
 **Supervisors**: [Dr Rishikesan Kamaleswaran](https://www.kamaleswaran.com/), [Dr Akram Mohammed](https://akram-mohammed.github.io/)  
 **Category:** [Google Summer of Code](https://summerofcode.withgoogle.com/organizations/5759105409482752/#5859209076277248) project .   
+**Slides:** [Link](https://drive.google.com/file/d/12hzYFZTlAtSFICj8AqjTwiGq6gXrfrT_/view?usp=sharing)
 **Initial proposal:** [Proposal](https://github.com/banerjeeshayantan/GSOC-complicated_Course_project/blob/master/GSOC-proposal.pdf)    
-**Funding agency:** [Google](https://developers.google.com/open-source/gsoc/help/student-stipends)  
 **Repository:** [Github repo containing the final report and codes](https://github.com/banerjeeshayantan/GSOC-complicated_Course_project).  
+**Funding agency:** [Google](https://developers.google.com/open-source/gsoc/help/student-stipends)  
 
 
 ### 3. Integrative analysis and identification of cancer driver genes using publicly available mutation data
@@ -42,6 +44,8 @@ Electronic health records are digitized real-time version of patient records tha
 **Category:** Independent research project  
 **Github repository:** [Link](https://github.com/banerjeeshayantan/CVD_mortality)  
 **Detailed write-up:** [Link](https://docs.google.com/document/d/151V6yXZmZnko_lbJX1C0F7RNP7XHd25isx8R8zbZLIE/edit?usp=sharing)  
+
+### 2. SepTrack: An efficient sepsis mortality risk tracker built using machine learning techniques to monitor high-risk patients
 
 
 
