@@ -47,11 +47,16 @@ Electronic health records are digitized real-time version of patient records tha
 
 ### 2. SepTrack: An efficient sepsis mortality risk tracker built using machine learning techniques to monitor high-risk patients
 Sepsis is a life threatening condition that occurs as a result of the body’s response to infection causing tissue damage and even death. It mostly affects children, the elderly or anyone with a weak immune system. Hospital acquired sepsis is even worse as patients can contract the disease even after the primary ailment is cured. In India the mortality rate of ICU acquired sepsis is very high. Large scale epidemiological studies have shown that clinical parameters can be attributed to high mortality rate among ICU patients. In this project, clinical and demographic data, lab measurements (collected withon 24 hours of admission) and free text clinical notes were used as features to build predictive models to predict 30-day mortality among sepsis patients. This project was chosen as one of the top 15 ideas at the Grand Finale of the Intel Python Hackfury 2019. As a requirement for entering the hackathon, I implemented all the machine learning models using the [Intel DAAL framework](https://software.intel.com/en-us/daal). A comparison of the runtimes between Intel DAAL and sklearn was also completed as part of the analysis.  
-**Category:** Hackathon project  
-**Detailed-writeup:** [Link](https://docs.google.com/document/d/1eoKGCF26R-LAmJw5b2AvnYH6RfAiiDhnmOx8XAK6X1Y/edit?usp=sharing)  
+**Category:** [Hackathon project](https://plan.seek.intel.com/IntelPythonHackFury-Reg?trackSrc=AIM)  
+**Detailed write-up:** [Link](https://docs.google.com/document/d/1eoKGCF26R-LAmJw5b2AvnYH6RfAiiDhnmOx8XAK6X1Y/edit?usp=sharing)  
 **Slides:** [Link](https://drive.google.com/file/d/1ecDXFlrhv57mUKc6mPg5GxgbbWHpejx6/view?usp=sharing)  
 **Repository:** [Link](https://github.com/banerjeeshayantan/Intel_hackfury_2019)  
 
+### 3. SmartEHR: A web-based tool to analyze free text clinical notes using Natural language processing and Machine learning techniques
+A hospital readmission is an episode when a patient who had been discharged from a hospital is admitted again within a specified time interval. Readmission rates have increasingly been used as an outcome measure in health services research and as a quality benchmark for health systems. Hospitals have to face penalities if their readmission rates are high. So, predicting the chances of readmission using the EHR data of patients (like discharge notes) will be of utmost importance. In this project, I used publicly available EHR data to extract free text clinical notes from EHR records and build a web-based interface to predict the 30 day readmission chances, top 5 most probable diagnoses and the top 20 keywords specific to the input document. This tool used popular Natural Language processing and machine learning techniques to preprocess, engineer features and build predcitive models. The web tool was built using the Python Flask framework. This tool was awarded the [first prize](https://rbc-dsai.iitm.ac.in/news/2019/01/11/Shaastra-AI-Challenge.html) in the HSBC AI challenge at Shaastra 2019.  
+**Category:** [Hackathon project](https://www.techgig.com/hackathon/SAIC)  
+**Slides:** [Link][https://drive.google.com/file/d/1LtLzcDaMawhxbm6NuFGjvZo7U6u45EMM/view?usp=sharing]  
+**Repository:** [Link](https://github.com/banerjeeshayantan/SmartEHR)  
 
 
 
