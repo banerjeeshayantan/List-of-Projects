@@ -20,7 +20,7 @@ Sepsis is a life threatning condition and an estimated 4.2 million newborns and 
 **Supervisors**: [Dr Rishikesan Kamaleswaran](https://www.kamaleswaran.com/), [Dr Akram Mohammed](https://akram-mohammed.github.io/)  
 **Category:** [Google Summer of Code](https://summerofcode.withgoogle.com/organizations/5759105409482752/#5859209076277248) project.     
 **Slides:** [Link](https://drive.google.com/file/d/12hzYFZTlAtSFICj8AqjTwiGq6gXrfrT_/view?usp=sharing)  
-**Initial proposal:** [Proposal](https://github.com/banerjeeshayantan/GSOC-complicated_Course_project/blob/master/GSOC-proposal.pdf)    
+**Initial proposal:** [Proposal](https://drive.google.com/file/d/1h9Q_7oSiNjwGm3zO6ZRPDexxbTu3XdDy/view?usp=sharing)    
 **Repository:** [Github repo containing the final report and codes](https://github.com/banerjeeshayantan/GSOC-complicated_Course_project).  
 **Funding agency:** [Google](https://developers.google.com/open-source/gsoc/help/student-stipends)  
 
