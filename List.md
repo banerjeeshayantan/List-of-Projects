@@ -10,7 +10,8 @@ context of genomic mutations to distinguish between driver and passengers.
 **Supervisors**: [Dr Karthik Raman](https://home.iitm.ac.in/kraman/lab/karthik/) and [Dr Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/)  
 **Category:** Masters project  
 **Report:** A [brief analysis](https://docs.google.com/document/d/13MOsX7WKgRlUIp4-PJP8s5HroQTX2DOOf2WrI2T--vY/edit?usp=sharing) of the results obtained so far.  
-**Poster:** [Link](https://drive.google.com/file/d/1dQzLGUdUOzta6rBrqoZCl7wE5Wlj2Qi2/view?usp=sharing) [(Presented at the Nextgen Genomics,Biology, Bioinformatics and Technologies Conference 2018 held in Jaipur)](https://www.sgrfconferences.org/2018/NGBT/). 
+**Poster:** [Link](https://drive.google.com/file/d/1dQzLGUdUOzta6rBrqoZCl7wE5Wlj2Qi2/view?usp=sharing) [(Presented at the Nextgen Genomics,Biology, Bioinformatics and Technologies Conference 2018 held in Jaipur)](https://www.sgrfconferences.org/2018/NGBT/).  
+**Duration:** August 2016- Present
   
   
 
@@ -23,6 +24,7 @@ Sepsis is a life threatning condition and an estimated 4.2 million newborns and 
 **Initial proposal:** [Proposal](https://drive.google.com/file/d/1h9Q_7oSiNjwGm3zO6ZRPDexxbTu3XdDy/view?usp=sharing)    
 **Repository:** [Github repo containing the final report and codes](https://github.com/banerjeeshayantan/GSOC-complicated_Course_project).  
 **Funding agency:** [Google](https://developers.google.com/open-source/gsoc/help/student-stipends)  
+**Duration:** May 2019 - September 2019
 
 
 ### 3. Integrative analysis and identification of cancer driver genes using publicly available mutation data
@@ -38,11 +40,13 @@ DNA microarray technology is used to measure the expression levels of genes unde
 **Funding agency:** [National Network for Mathematical and Computational Biology (NNMCB)](http://www.iiserpune.ac.in/~mbio/?q=nnmcb/internship)  
 **Supervisors:** [Dr Subhra Shankar Ray](https://www.isical.ac.in/~shubhra/)  
 **Repository:** [Link](https://github.com/banerjeeshayantan/NNMCB-project)  
+**Duration:** June 2015 - August 2015
 
 ### 5. Predicting protein functions from interaction data using network features
 Predicting function of unknown proteins have been a long standing research problem to determine pathogenicity in target organisms. Computational prediction can be a fast and economical option to achieve that as compared to in-vitro studies. In this project, we try to predict functions of unknown proteins in Saccharomyces cerevisiae using machine learning algorithms and network properties as features. We achieve reasonable accuracy using Random Forests and a particular type of SVM classifier.  
 **Category:** Course project for [Computational Systems Biology](https://home.iitm.ac.in/kraman/lab/courses/2013/bt5240)  
 **Detailed write-up:** [Link](https://drive.google.com/file/d/1KveTAZzyXxXrK8pudYWT6hkUJR-aBC6I/view?usp=sharing)  
+**Duration:** January 2018 - May 2018
 
 
 
@@ -61,6 +65,7 @@ Sepsis is a life threatening condition that occurs as a result of the body’s r
 **Detailed write-up:** [Link](https://docs.google.com/document/d/1eoKGCF26R-LAmJw5b2AvnYH6RfAiiDhnmOx8XAK6X1Y/edit?usp=sharing)  
 **Slides:** [Link](https://drive.google.com/file/d/1ecDXFlrhv57mUKc6mPg5GxgbbWHpejx6/view?usp=sharing)  
 **Repository:** [Link](https://github.com/banerjeeshayantan/Intel_hackfury_2019)  
+**Duration:** August 2019 - September 2019
 
 ### 8. SmartEHR: A web-based tool to analyze free text clinical notes using Natural language processing and Machine learning techniques
 A hospital readmission is an episode when a patient who had been discharged from a hospital is admitted again within a specified time interval. Readmission rates have increasingly been used as an outcome measure in health services research and as a quality benchmark for health systems. Hospitals have to face penalities if their readmission rates are high. So, predicting the chances of readmission using the EHR data of patients (like discharge notes) will be of utmost importance. In this project, I used publicly available EHR data to extract free text clinical notes from EHR records and build a web-based interface to predict the 30 day readmission chances, top 5 most probable diagnoses and the top 20 keywords specific to the input document. This tool used popular Natural Language processing and machine learning techniques to preprocess, engineer features and build predcitive models. The web tool was built using the Python Flask framework. This tool was awarded the [first prize](https://rbc-dsai.iitm.ac.in/news/2019/01/11/Shaastra-AI-Challenge.html) in the HSBC AI challenge at Shaastra 2019.  
@@ -68,6 +73,7 @@ A hospital readmission is an episode when a patient who had been discharged from
 **Slides:** [Link](https://drive.google.com/file/d/1LtLzcDaMawhxbm6NuFGjvZo7U6u45EMM/view?usp=sharing)  
 **Repository:** [Link](https://github.com/banerjeeshayantan/SmartEHR)  
 **Demo:** [Link](https://rbc-dsai.iitm.ac.in/news/2019/01/11/Shaastra-AI-Challenge.html)  
+**Duration:** November 2018 - January 2019
 
 ## Machine learning projects 
 ### 9. Predicting photometric redshifts using machine learning methods
@@ -75,21 +81,24 @@ A photometric redshift is an estimate for the recession velocity of a galaxy wit
 **Category:** Winter internship project  
 **Funding agency:** [National Centre for Radio Astrophysics](http://www.ncra.tifr.res.in/ncra/main)  
 **Repository:** [Link](https://github.com/banerjeeshayantan/NCRA)  
+**Duration:** January 2015 - February 2015
 
 ### 10. Classifying types of particles generated in high energy collider experiments
 This project was one of the tasks for the KDD Cup 2004. The goal in this task was to learn a classification rule that differentiates between two types of particles generated in high energy collider experiments. It was a binary classification problem with 78 attributes. The leaderboard ranking was based on four different classification metrics. The [final leaderboard](http://osmot.cs.cornell.edu/cgi-bin/kddcup/newtable.pl?prob=phy) ranking for this task was 87.750.  
 **Category:** Assignment for the course "Introduction to Machine learning"  
 **Repository:** [Link](https://github.com/banerjeeshayantan/KDD2004)  
+**Duration:** January 2019 - May 2019
 
 ### 11. Protein homology prediction task  
 The goal for this project was to predict which proteins were homologous to a native sequence. The data was grouped into blocks around each native sequence. The training set had 153 native sequences and the testing set had 150 native sequences. ***The final model gave the best results overall with a second best RMSE of 0.03476 that was within 1% of the RMSE of the winning team.*** The average [leaderboard ranking](http://osmot.cs.cornell.edu/cgi-bin/kddcup/newtable.pl?col=5&order=1&prob=bio) (username: shayantan) across all metrics for this task was 85.5 and for RMSE was 2.   
 **Category:** Assignment for the course "Introduction to Machine learning"  
 **Repository:** [Link](https://github.com/banerjeeshayantan/KDD2004)  
-
+**Duration:** January 2019 - May 2019
 ## Others
 ### 12. Understanding Information Privacy Assimilation in IT Organizations using Multi-site Case Studies
 Immerse, the institute research magazine, is the annual science publication of The Fifth Estate. It stands for IIT Madras Magazine on Research in Science and Engineering, where the endeavour is not only to showcase some of the recent developments in research and innovation at IIT Madras, but also to communicate the science behind them in the simplest way possible for better understanding and appreciation. The student writers are usually encouraged to choose their favourite research lab within the institute (preferably outside their own department or area of expertise). Then after multiple interviews with the PI and the researchers of that lab along with multiple rounds of editing, the final article is produced. Last year, I was very fortunate to interview [Dr Saji Mathew](https://doms.iitm.ac.in/index.php/skm) from the Department of Management Studies in IIT Madras. His area of interest revolves around Web personalization and Information privacy.   
 **Category:** Magazine article  
 **Article:** [Link](https://drive.google.com/file/d/12PLOmF0nrPvLqCB8uLicvWRL0ieEMLnk/view?usp=sharing) (Turn to Page 10 for the article).  
+**Duration:** October 2018 - December 2018
 
 
