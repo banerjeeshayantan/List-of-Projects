@@ -11,6 +11,7 @@ context of genomic mutations to distinguish between driver and passengers.
 **Category:** Masters project  
 **Report:** A [brief analysis](https://docs.google.com/document/d/13MOsX7WKgRlUIp4-PJP8s5HroQTX2DOOf2WrI2T--vY/edit?usp=sharing) of the results obtained so far.  
 **Poster:** [Link](https://drive.google.com/file/d/1dQzLGUdUOzta6rBrqoZCl7wE5Wlj2Qi2/view?usp=sharing) [(Presented at the Nextgen Genomics,Biology, Bioinformatics and Technologies Conference 2018 held in Jaipur)](https://www.sgrfconferences.org/2018/NGBT/).  
+**Tools:** NGS techniques to preprocess, align and call variants **Languages:** R, Python  
 **Duration:** August 2016- Present
   
   
