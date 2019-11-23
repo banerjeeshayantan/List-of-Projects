@@ -36,8 +36,8 @@ Driver mutations are somatic mutations that help in cancer progression while pas
 **Category:** Independent research project based on the findings discussed in the PBS documentary ["The Emperor of All Maladies"](https://www.pbs.org/show/story-cancer-emperor-all-maladies/)  
 **Detailed write-up:** [Link](https://docs.google.com/document/d/1VCLoe-IbIr_CIarEAcDNW3Z9O31Z1KcpNVPpA1Be8_w/edit?usp=sharing)  
 **Repository:** [Link](https://github.com/banerjeeshayantan/Driver_gene_identificantion)  
-**Tools:** CanDrA, MutSigCV, OncodriveCLUST, MATLAB  
-**Languages:** R and Python  
+**Tools:** CanDrA, MutSigCV, OncodriveCLUST  
+**Languages:** MATLAB, R, Python  
   
  
  ### Project 4: Classifying cancerous tissue using gene expression data  
