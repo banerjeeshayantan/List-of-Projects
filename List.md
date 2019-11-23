@@ -25,8 +25,8 @@ Sepsis is a life threatning condition and an estimated 4.2 million newborns and 
 **Slides:** [Link](https://drive.google.com/file/d/12hzYFZTlAtSFICj8AqjTwiGq6gXrfrT_/view?usp=sharing)  
 **Initial proposal:** [Proposal](https://drive.google.com/file/d/1h9Q_7oSiNjwGm3zO6ZRPDexxbTu3XdDy/view?usp=sharing)    
 **Repository:** [Github repo containing the final report and codes](https://github.com/banerjeeshayantan/GSOC-complicated_Course_project).  
-**Tools:** Cytoscape
-**Languages:** R and Python
+**Tools:** Cytoscape  
+**Languages:** R and Python  
 **Funding agency:** [Google](https://developers.google.com/open-source/gsoc/help/student-stipends)  
 **Duration:** May 2019 - September 2019 
 
@@ -37,7 +37,7 @@ Driver mutations are somatic mutations that help in cancer progression while pas
 **Detailed write-up:** [Link](https://docs.google.com/document/d/1VCLoe-IbIr_CIarEAcDNW3Z9O31Z1KcpNVPpA1Be8_w/edit?usp=sharing)  
 **Repository:** [Link](https://github.com/banerjeeshayantan/Driver_gene_identificantion)  
 **Tools:** CanDrA, MutSigCV, OncodriveCLUST, MATLAB  
-**Languages:** R and Python
+**Languages:** R and Python  
   
  
  ### Project 4: Classifying cancerous tissue using gene expression data  
@@ -53,7 +53,7 @@ DNA microarray technology is used to measure the expression levels of genes unde
 Predicting function of unknown proteins have been a long standing research problem to determine pathogenicity in target organisms. Computational prediction can be a fast and economical option to achieve that as compared to in-vitro studies. In this project, we try to predict functions of unknown proteins in Saccharomyces cerevisiae using machine learning algorithms and network properties as features. We achieve reasonable accuracy using Random Forests and a particular type of SVM classifier.  
 **Category:** Course project for [Computational Systems Biology](https://home.iitm.ac.in/kraman/lab/courses/2013/bt5240)  
 **Detailed write-up:** [Link](https://drive.google.com/file/d/1KveTAZzyXxXrK8pudYWT6hkUJR-aBC6I/view?usp=sharing)  
-**Tools:** Cytoscape
+**Tools:** Cytoscape  
 **Languages:** Python  
 **Duration:** January 2018 - May 2018
 
@@ -66,7 +66,7 @@ Predicting function of unknown proteins have been a long standing research probl
 Electronic health records are digitized real-time version of patient records that makes patient information available instantly and securely to authorized users. Coronary artery disease (CAD) often leads to myocardial infraction, which may be fatal. The risk factors associated with this disease are embedded in electronic health records and features can be extracted to build predictive models. After a patient is admitted and the blood tests and clinical data (like Insurance, Admission type and Gender) are collected, predictive models can be built to classify survivability of patients within 30 days of admission. This is the most critical period for surviving coronary atherosclerosis. The main objective of this study was to build five different predictive models using demographic data, treatment data, lab measurements reported within 24 hours of admission, a combined model using all of the above and free text clinical notes. A comparative analysis of the results would then elucidate the best set of features that gives the most predictive power.  
 **Category:** Independent research project  
 **Repository:** [Link](https://github.com/banerjeeshayantan/CVD_mortality)  
-**Languages:** SQL, R, Python
+**Languages:** SQL, R, Python  
 **Detailed write-up:** [Link](https://docs.google.com/document/d/151V6yXZmZnko_lbJX1C0F7RNP7XHd25isx8R8zbZLIE/edit?usp=sharing)  
 
 
@@ -76,7 +76,7 @@ Sepsis is a life threatening condition that occurs as a result of the body’s r
 **Detailed write-up:** [Link](https://docs.google.com/document/d/1eoKGCF26R-LAmJw5b2AvnYH6RfAiiDhnmOx8XAK6X1Y/edit?usp=sharing)  
 **Slides:** [Link](https://drive.google.com/file/d/1ecDXFlrhv57mUKc6mPg5GxgbbWHpejx6/view?usp=sharing)  
 **Repository:** [Link](https://github.com/banerjeeshayantan/Intel_hackfury_2019)  
-**Languages:** SQL, R, Python
+**Languages:** SQL, R, Python  
 **Duration:** August 2019 - September 2019
 
 ### Project 8: SmartEHR: A web-based tool to analyze free text clinical notes using Natural language processing and Machine learning techniques
@@ -85,7 +85,7 @@ A hospital readmission is an episode when a patient who had been discharged from
 **Slides:** [Link](https://drive.google.com/file/d/1LtLzcDaMawhxbm6NuFGjvZo7U6u45EMM/view?usp=sharing)  
 **Repository:** [Link](https://github.com/banerjeeshayantan/SmartEHR)  
 **Demo:** [Link](https://rbc-dsai.iitm.ac.in/news/2019/01/11/Shaastra-AI-Challenge.html)  
-**Languages:** SQL, R, Python, Python flask
+**Languages:** SQL, R, Python, Python flask  
 **Duration:** November 2018 - January 2019
 
 ## Machine learning projects 
@@ -94,7 +94,7 @@ A photometric redshift is an estimate for the recession velocity of a galaxy wit
 **Category:** Winter internship project  
 **Funding agency:** [National Centre for Radio Astrophysics](http://www.ncra.tifr.res.in/ncra/main)  
 **Repository:** [Link](https://github.com/banerjeeshayantan/NCRA)  
-**Languages:** R
+**Languages:** R  
 **Duration:** January 2015 - February 2015
 
 ### Project 10: Classifying types of particles generated in high energy collider experiments
