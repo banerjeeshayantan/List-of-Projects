@@ -72,7 +72,7 @@ Electronic health records are digitized real-time version of patient records tha
 **Category:** Independent research project  
 **Repository:** [Link](https://github.com/banerjeeshayantan/CVD_mortality)  
 **Languages:** SQL, R, Python  
-**Detailed write-up:** [Link](https://docs.google.com/document/d/151V6yXZmZnko_lbJX1C0F7RNP7XHd25isx8R8zbZLIE/edit?usp=sharing)  
+**Detailed write-up:** [Link](https://drive.google.com/file/d/1AIHEmGh3YcT9xTbAmkIU2t7tzoMAYVKm/view?usp=sharing)  
 
 
 ### Project 7: SepTrack: An efficient sepsis mortality risk tracker built using machine learning techniques to monitor high-risk patients
