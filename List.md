@@ -67,7 +67,16 @@ Predicting function of unknown proteins have been a long standing research probl
 
 
 ## Electronic health records and machine learning
-### Project 6: Prediction of in-hospital mortality for patients suffering from coronary atherosclerosis using electronic health records
+### Project 6: SmartEHR: A web-based tool to analyze free text clinical notes using Natural language processing and Machine learning techniques
+A hospital readmission is an episode when a patient who had been discharged from a hospital is admitted again within a specified time interval. Readmission rates have increasingly been used as an outcome measure in health services research and as a quality benchmark for health systems. Hospitals have to face penalities if their readmission rates are high. So, predicting the chances of readmission using the EHR data of patients (like discharge notes) will be of utmost importance. In this project, I used publicly available EHR data to extract free text clinical notes from EHR records and build a web-based interface to predict the 30 day readmission chances, top 5 most probable diagnoses and the top 20 keywords specific to the input document. This tool used popular Natural Language processing and machine learning techniques to preprocess, engineer features and build predcitive models. The web tool was built using the Python Flask framework. This tool was awarded the [first prize](https://rbc-dsai.iitm.ac.in/news/2019/01/11/Shaastra-AI-Challenge.html) in the HSBC AI challenge at Shaastra 2019.  
+  
+**Category:** [Hackathon project](https://www.techgig.com/hackathon/SAIC)    
+**Slides:** [Link](https://drive.google.com/file/d/1LtLzcDaMawhxbm6NuFGjvZo7U6u45EMM/view?usp=sharing)  
+**Repository:** [Link](https://github.com/banerjeeshayantan/SmartEHR)  
+**Demo:** [Link](https://rbc-dsai.iitm.ac.in/news/2019/01/11/Shaastra-AI-Challenge.html)  
+**Languages:** SQL, R, Python, Python flask  
+**Duration:** November 2018 - January 2019
+### Project 7: Prediction of in-hospital mortality for patients suffering from coronary atherosclerosis using electronic health records
 Electronic health records are digitized real-time version of patient records that makes patient information available instantly and securely to authorized users. Coronary artery disease (CAD) often leads to myocardial infraction, which may be fatal. The risk factors associated with this disease are embedded in electronic health records and features can be extracted to build predictive models. After a patient is admitted and the blood tests and clinical data (like Insurance, Admission type and Gender) are collected, predictive models can be built to classify survivability of patients within 30 days of admission. This is the most critical period for surviving coronary atherosclerosis. The main objective of this study was to build five different predictive models using demographic data, treatment data, lab measurements reported within 24 hours of admission, a combined model using all of the above and free text clinical notes. A comparative analysis of the results would then elucidate the best set of features that gives the most predictive power.    
   
 **Category:** Independent research project  
@@ -76,7 +85,7 @@ Electronic health records are digitized real-time version of patient records tha
 **Detailed write-up:** [Link](https://drive.google.com/file/d/1AIHEmGh3YcT9xTbAmkIU2t7tzoMAYVKm/view?usp=sharing)  
 
 
-### Project 7: SepTrack: An efficient sepsis mortality risk tracker built using machine learning techniques to monitor high-risk patients
+### Project 8: SepTrack: An efficient sepsis mortality risk tracker built using machine learning techniques to monitor high-risk patients
 Sepsis is a life threatening condition that occurs as a result of the body’s response to infection causing tissue damage and even death. It mostly affects children, the elderly or anyone with a weak immune system. Hospital acquired sepsis is even worse as patients can contract the disease even after the primary ailment is cured. In India the mortality rate of ICU acquired sepsis is very high. Large scale epidemiological studies have shown that clinical parameters can be attributed to high mortality rate among ICU patients. In this project, clinical and demographic data, lab measurements (collected withon 24 hours of admission) and free text clinical notes were used as features to build predictive models to predict 30-day mortality among sepsis patients. This project was chosen as one of the top 15 ideas at the Grand Finale of the Intel Python Hackfury 2019. As a requirement for entering the hackathon, I implemented all the machine learning models using the [Intel DAAL framework](https://software.intel.com/en-us/daal). A comparison of the runtimes between Intel DAAL and sklearn was also completed as part of the analysis.  
   
 **Category:** [Hackathon project](https://plan.seek.intel.com/IntelPythonHackFury-Reg?trackSrc=AIM)  
@@ -86,15 +95,7 @@ Sepsis is a life threatening condition that occurs as a result of the body’s r
 **Languages:** SQL, R, Python  
 **Duration:** August 2019 - September 2019
 
-### Project 8: SmartEHR: A web-based tool to analyze free text clinical notes using Natural language processing and Machine learning techniques
-A hospital readmission is an episode when a patient who had been discharged from a hospital is admitted again within a specified time interval. Readmission rates have increasingly been used as an outcome measure in health services research and as a quality benchmark for health systems. Hospitals have to face penalities if their readmission rates are high. So, predicting the chances of readmission using the EHR data of patients (like discharge notes) will be of utmost importance. In this project, I used publicly available EHR data to extract free text clinical notes from EHR records and build a web-based interface to predict the 30 day readmission chances, top 5 most probable diagnoses and the top 20 keywords specific to the input document. This tool used popular Natural Language processing and machine learning techniques to preprocess, engineer features and build predcitive models. The web tool was built using the Python Flask framework. This tool was awarded the [first prize](https://rbc-dsai.iitm.ac.in/news/2019/01/11/Shaastra-AI-Challenge.html) in the HSBC AI challenge at Shaastra 2019.  
-  
-**Category:** [Hackathon project](https://www.techgig.com/hackathon/SAIC)    
-**Slides:** [Link](https://drive.google.com/file/d/1LtLzcDaMawhxbm6NuFGjvZo7U6u45EMM/view?usp=sharing)  
-**Repository:** [Link](https://github.com/banerjeeshayantan/SmartEHR)  
-**Demo:** [Link](https://rbc-dsai.iitm.ac.in/news/2019/01/11/Shaastra-AI-Challenge.html)  
-**Languages:** SQL, R, Python, Python flask  
-**Duration:** November 2018 - January 2019
+
 
 ## Machine learning projects 
 ### Project 9: Predicting photometric redshifts using machine learning methods
