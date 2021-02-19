@@ -14,8 +14,8 @@ context of genomic mutations to distinguish between driver and passengers.
 **Conference:** [Presented at the Nextgen Genomics,Biology, Bioinformatics and Technologies Conference 2018 held in Jaipur](https://www.sgrfconferences.org/2018/NGBT/).  
 **Tools:** NGS tools like SAMtools, Strelka, VEP, GATK etc  
 **Languages:** R and Python  
-**Duration:** August 2016- Present
-**Link to repository:** [NBDriver](https://github.com/RamanLab/NBDriver)
+**Duration:** August 2016- Present  
+**Link to repository:** [NBDriver](https://github.com/RamanLab/NBDriver)  
   
 
 ### Project 2: Integrating genomic and clinical data to differentiate between sepsis patients having complicated course outcomes
