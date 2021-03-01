@@ -30,7 +30,7 @@ Sepsis is a life threatning condition and an estimated 4.2 million newborns and 
 **Languages:** R and Python  
 **Funding agency:** [Google](https://developers.google.com/open-source/gsoc/help/student-stipends)  
 **Duration:** May 2019 - September 2019  
-**Preprint under review:** [Manuscript link](https://www.frontiersin.org/articles/10.3389/fimmu.2021.592303/)  
+**Manuscript:** [Manuscript link](https://www.frontiersin.org/articles/10.3389/fimmu.2021.592303/)  
 
 
 ### Project 3: Integrative analysis and identification of cancer driver genes using publicly available mutation data
