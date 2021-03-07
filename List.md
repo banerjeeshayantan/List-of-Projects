@@ -1,5 +1,27 @@
 # List-of-Projects
 
+###Table of Contents
+=================
+
+   * [List-of-Projects](#list-of-projects)
+      * [Genomics and machine learning](#genomics-and-machine-learning)
+         * [Project 1: Identifying the context of mutations in a cancer genome](#project-1-identifying-the-context-of-mutations-in-a-cancer-genome)
+         * [Project 2: Integrating genomic and clinical data to differentiate between sepsis patients having complicated course outcomes](#project-2-integrating-genomic-and-clinical-data-to-differentiate-between-sepsis-patients-having-complicated-course-outcomes)
+         * [Project 3: Integrative analysis and identification of cancer driver genes using publicly available mutation data](#project-3-integrative-analysis-and-identification-of-cancer-driver-genes-using-publicly-available-mutation-data)
+         * [Project 4: Classifying cancerous tissue using gene expression data](#project-4-classifying-cancerous-tissue-using-gene-expression-data)
+         * [Project 5: Predicting protein functions from interaction data using network features](#project-5-predicting-protein-functions-from-interaction-data-using-network-features)
+      * [Electronic health records and machine learning](#electronic-health-records-and-machine-learning)
+         * [Project 6: SmartEHR: A web-based tool to analyze free text clinical notes using Natural language processing and Machine learning techniques](#project-6-smartehr-a-web-based-tool-to-analyze-free-text-clinical-notes-using-natural-language-processing-and-machine-learning-techniques)
+         * [Project 7: Prediction of in-hospital mortality for patients suffering from coronary atherosclerosis using electronic health records](#project-7-prediction-of-in-hospital-mortality-for-patients-suffering-from-coronary-atherosclerosis-using-electronic-health-records)
+         * [Project 8: SepTrack: An efficient sepsis mortality risk tracker built using machine learning techniques to monitor high-risk patients](#project-8-septrack-an-efficient-sepsis-mortality-risk-tracker-built-using-machine-learning-techniques-to-monitor-high-risk-patients)
+      * [Machine learning projects](#machine-learning-projects)
+         * [Project 9: Predicting photometric redshifts using machine learning methods](#project-9-predicting-photometric-redshifts-using-machine-learning-methods)
+         * [Project 10: Classifying types of particles generated in high energy collider experiments](#project-10-classifying-types-of-particles-generated-in-high-energy-collider-experiments)
+         * [Project 11: Protein homology prediction task](#project-11-protein-homology-prediction-task)
+      * [Others](#others)
+         * [Project 12: Understanding Information Privacy Assimilation in IT Organizations using Multi-site Case Studies](#project-12-understanding-information-privacy-assimilation-in-it-organizations-using-multi-site-case-studies)
+
+
 ## Genomics and machine learning
 ### Project 1: Identifying the context of mutations in a cancer genome
 Exploring the genomic context of cancer-causing mutations and using that to differentiate between driver and passenger mutations is not a very well 
