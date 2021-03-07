@@ -1,13 +1,5 @@
 # List-of-Projects
 
-
-## Table of Contents
-
-- [Project 1: Identifying the context of mutations in a cancer genome](#project 1: identifying-the-context-of-mutations-in-a-cancer-genome)
-- [Project 2: Integrating genomic and clinical data to differentiate between sepsis patients having complicated course outcomes(#project 2: Integrating genomic and clinical data to differentiate between sepsis patients having complicated course outcomes)
-
-
-
 ## Genomics and machine learning
 ### Project 1: Identifying the context of mutations in a cancer genome
 Exploring the genomic context of cancer-causing mutations and using that to differentiate between driver and passenger mutations is not a very well 
