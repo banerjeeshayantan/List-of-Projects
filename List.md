@@ -1,4 +1,12 @@
 # List-of-Projects
+
+
+## Table of Contents
+
+- [Project 1: Identifying the context of mutations in a cancer genome](#project 1)
+
+
+
 ## Genomics and machine learning
 ### Project 1: Identifying the context of mutations in a cancer genome
 Exploring the genomic context of cancer-causing mutations and using that to differentiate between driver and passenger mutations is not a very well 
