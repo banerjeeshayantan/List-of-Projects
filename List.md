@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-- [Project 1: Identifying the context of mutations in a cancer genome](#project 1: Identifying the context of mutations in a cancer genome)
+- [Project 1: Identifying the context of mutations in a cancer genome](#project 1: identifying-the-context-of-mutations-in-a-cancer-genome)
 
 
 
