@@ -30,7 +30,7 @@ context of genomic mutations to distinguish between driver and passengers. To en
 
 **Supervisors**: [Dr Karthik Raman](https://home.iitm.ac.in/kraman/lab/karthik/) and [Dr Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/)  
 **Category:** Masters project  
-**Report:** A [brief analysis](https://docs.google.com/document/d/13MOsX7WKgRlUIp4-PJP8s5HroQTX2DOOf2WrI2T--vY/edit?usp=sharing) of the results obtained so far.  
+**Manuscript:** [Link](https://www.mdpi.com/2072-6694/13/10/2366)  
 **Poster:** [Link](https://drive.google.com/file/d/1dQzLGUdUOzta6rBrqoZCl7wE5Wlj2Qi2/view?usp=sharing)   
 **Conference:** [Presented at the Nextgen Genomics,Biology, Bioinformatics and Technologies Conference 2018 held in Jaipur](https://www.sgrfconferences.org/2018/NGBT/).  
 **Tools:** NGS tools like SAMtools, Strelka, VEP, GATK etc  
