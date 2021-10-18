@@ -35,7 +35,7 @@ context of genomic mutations to distinguish between driver and passengers. To en
 **Conference:** [Presented at the Nextgen Genomics,Biology, Bioinformatics and Technologies Conference 2018 held in Jaipur](https://www.sgrfconferences.org/2018/NGBT/).  
 **Tools:** NGS tools like Samtools, Strelka, VEP, GATK etc  
 **Languages:** R and Python  
-**Duration:** August 2016- Present  
+**Duration:** August 2016- May 2021  
 **Link to repository:** [NBDriver](https://github.com/RamanLab/NBDriver)  
   
 
