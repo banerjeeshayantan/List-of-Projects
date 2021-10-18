@@ -28,7 +28,7 @@ Exploring the genomic context of cancer-causing mutations and using that to diff
 Our goal is to develop novel algorithms that apply methods from Natural Language Processing and machine learning to analyse the sequence and positional 
 context of genomic mutations to distinguish between driver and passengers. To ensure generalizability, we use five seperate independent validation datasets to test our machine learning tool ****NBDriver****.  
 
-**Supervisors**: [Dr Karthik Raman](https://home.iitm.ac.in/kraman/lab/karthik/) and [Dr Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/)  
+**Supervisors**: [Dr. Karthik Raman](https://home.iitm.ac.in/kraman/lab/karthik/) and [Dr. Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/)  
 **Category:** Masters project  
 **Manuscript:** [Link](https://www.mdpi.com/2072-6694/13/10/2366) to the manuscript recently published in the *Cancers* journal.  
 **Poster:** [Link](https://drive.google.com/file/d/1AbDwwrqpjnbNW0-zEiuNSYCAOD4VH9Ho/view?usp=sharing)   
@@ -42,7 +42,7 @@ context of genomic mutations to distinguish between driver and passengers. To en
 ### Project 2: Integrating genomic and clinical data to differentiate between sepsis patients having complicated course outcomes
 Sepsis is a life threatning condition and an estimated 4.2 million newborns and children are affected every year. In the first part of this project we analyzed publicly available pediatric sepsis gene expression data [GSE66099](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE66099) to differentiate between survivors and non-survivors. Complicated course outcomes is defined as mortality by 28 days or persistence of greater than or equal to two organ failures at day 7 of septic shock. Using the complicated course labels provided by our [collaborators](https://www.cincinnatichildrens.org/bio/w/hector-wong), we did differential gene expression analysis on the same microarray data. The differentially expressed genes (DEGs) or the biomarkers found in this analysis were validated using already existing studies and functional analysis was also performed. Next, using the same microarray data, we experimented with different feature selection approaches and extracted a set of stable features (genes) for building machine learning models for classifying complicated course vs uncomplicated course patients.  
 
-**Supervisors**: [Dr Rishikesan Kamaleswaran](https://www.kamaleswaran.com/), [Dr Akram Mohammed](https://akram-mohammed.github.io/)  
+**Supervisors**: [Dr. Rishikesan Kamaleswaran](https://www.kamaleswaran.com/), [Dr. Akram Mohammed](https://akram-mohammed.github.io/)  
 **Category:** [Google Summer of Code](https://summerofcode.withgoogle.com/organizations/5759105409482752/#5859209076277248) project.     
 **Slides:** [Link](https://drive.google.com/file/d/12hzYFZTlAtSFICj8AqjTwiGq6gXrfrT_/view?usp=sharing)  
 **Initial proposal:** [Proposal](https://drive.google.com/file/d/1h9Q_7oSiNjwGm3zO6ZRPDexxbTu3XdDy/view?usp=sharing)    
