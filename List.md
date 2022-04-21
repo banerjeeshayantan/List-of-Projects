@@ -29,7 +29,7 @@ Our goal is to develop novel algorithms that apply methods from Natural Language
 context of genomic mutations to distinguish between driver and passengers. To ensure generalizability, we use five seperate independent validation datasets to test our machine learning tool ****NBDriver****.  
 
 **Supervisors**: [Dr. Karthik Raman](https://home.iitm.ac.in/kraman/lab/karthik/) and [Dr. Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/)  
-**Category:** Masters project  
+**Category:** Master's project  
 **Manuscript:** [Link](https://www.mdpi.com/2072-6694/13/10/2366) to the manuscript recently published in the *Cancers* journal.  
 **Poster:** [Link](https://drive.google.com/file/d/1AbDwwrqpjnbNW0-zEiuNSYCAOD4VH9Ho/view?usp=sharing)   
 **Conference:** [Presented at the Nextgen Genomics,Biology, Bioinformatics and Technologies Conference 2018 held in Jaipur](https://www.sgrfconferences.org/2018/NGBT/).  
